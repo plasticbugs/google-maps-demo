@@ -3,6 +3,9 @@
 ## Specification:
 Create an application utilizing the Google Maps API with the Places library. The user should be able to search within the map. A successful search should return a list of results and should display markers on the map for each result. There should be some interaction between the map and the list.
 
+## Screenshot:
+![ScreenShot](/dist/images/google_demo.gif)
+
 ## How to run this application:
 Open the `dist/index.html` file in your browser.
 
